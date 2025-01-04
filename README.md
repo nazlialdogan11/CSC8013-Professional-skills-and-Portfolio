@@ -4,8 +4,8 @@
 
 This portfolio aims to conduct a research into Google as an employer to reflect on the skills gained by the programme by writing a self-assessment and planning for further professional development. 
 
->___Feedback:___
-> "Research into Google was well conducted."
+>__Feedback:__
+> _"Research into Google was well conducted."_
 > -*Dr E Torelli, Module Leader*
 
 ## ⚙️ How to Install 
@@ -50,5 +50,5 @@ The Skills Audit Portfolio was utilised to evaluate abilities in relation to the
   # ⛓️ References
 
 - [*Click for detailed information on the CSC8013 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8013)
-- [*Click for the skills audit assessment.*](https://www.ncl.ac.uk/media/wwwnclacuk/careersservice/files/skills-assessment.pdf)
+- [*Click for the skills audit assessment designed by Newcastle University Careers Service.*](https://www.ncl.ac.uk/media/wwwnclacuk/careersservice/files/skills-assessment.pdf)
   
