@@ -20,7 +20,7 @@ Open the files.
 
 # ℹ About the Skills Audit Portfolio
 
-The Skills Audit Portfolio is utilised to evaluate abilities in relation to the key skills employers look for in graduate recruits. For this module, the exercise to evaluate the skills were designed by Newcastle University Careers Service which can be found in the references section.
+The Skills Audit Portfolio was utilised to evaluate abilities in relation to the key skills employers look for in graduate recruits. For this module, the exercise to evaluate the skills were designed by Newcastle University Careers Service, which can be accessed via the references section.
 
 # 🔖 Achievements
 
@@ -28,7 +28,13 @@ The Skills Audit Portfolio is utilised to evaluate abilities in relation to the 
 - 
   
 ***The learning outcomes achieved upon the completion of this portfolio were summarised below.***
-- 
+- Recognised and explained the legal, social, ethical and professional issues arising in real situations.
+- Described and discussed the issues related to carrying out research and the methods used to collect data, and critically evaluated ideas, concepts and practices related to computing and information systems research.
+- Gained professional skills including communication, time management, giving and receiving feedback.
+- Reflected on professional skills development and plan training needs.
+- Recognised, presented and summarised skills and achievements gained to a non-technical audience.
+- Gathered, synthesised and evaluated information.
+- Used critical analytical skills to relate theory to practice.
 
 # 📄 Evaluation Results
 - 
@@ -43,6 +49,6 @@ The Skills Audit Portfolio is utilised to evaluate abilities in relation to the 
 
   # ⛓️ References
 
-- [*Click for detailed information on the CSC8013 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8012](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8013 )
+- [*Click for detailed information on the CSC8013 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8013)
 - [*Click for the skills audit assessment.*](https://www.ncl.ac.uk/media/wwwnclacuk/careersservice/files/skills-assessment.pdf)
   
