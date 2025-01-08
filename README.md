@@ -16,7 +16,7 @@ Clone the project to your computer.
 > https://github.com/nazlialdogan11/CSC8013-Professional-skills-and-Portfolio.git
 ```
 
-Open the files.
+Open the pdf document concerning the skills audit. 
 
 # ℹ About the Skills Audit Portfolio
 
@@ -24,9 +24,23 @@ The Skills Audit Portfolio was utilised to evaluate abilities in relation to the
 
 # 🔖 Achievements
 
-***The portfolio successfully:***
-- 
-  
+***In Part I concerning self-assessment and skills portfolio, successfully:***
+- listed the highest scored skills answered 4 or 5 in self-assessment and provided evidence from the course, work and normal life. 
+- for one of the highest skills, answered a competency based question and described a situation where I was asked to do something I'd never attempted previously and how I linked my previous experiences or skills to overcome any
+obstacles along the way.
+- listed all skills scored 3 or less in self-assessment and prioritised three of these skills.
+- structure the answers by using the STAR(Situation, Task, Action, Result) method.
+- provided a short plan on how to further develop each of the prioitised skills by considering the resources and support available for self-development.
+
+***In Part II concerning employer research, successfully:***
+- provided a summary of the multinational technology giant, Google, as an employer of interest as if preparing for an interview with this company.
+- identified the skills and experience valued by Google.
+- included news and recent events on Google.
+- underlined the values and mission of Google, their main products and services.
+- utilised a variety of sources, such as the website of Google company, their social media accounts, news sites, Computing news resources and insider sites like Glassdoor.
+- listed references for the resources utilised by using the Harvard standard referencing format.
+- set forth a desired relevant question to ask the employer during the interview.
+
 ***The learning outcomes achieved upon the completion of this portfolio were summarised below.***
 - Recognised and explained the legal, social, ethical and professional issues arising in real situations.
 - Described and discussed the issues related to carrying out research and the methods used to collect data, and critically evaluated ideas, concepts and practices related to computing and information systems research.
@@ -37,8 +51,11 @@ The Skills Audit Portfolio was utilised to evaluate abilities in relation to the
 - Used critical analytical skills to relate theory to practice.
 
 # 📄 Evaluation Results
-- 
-
+- The highest scored skills in the skills audit were written communication, interpersonal communication and problem solving.
+- The prioritised skills in the skills audit for the areas of improvement were planning and organising, adaptability and numeracy.
+>__An Excerpt from the Skills Audit:__
+> _"Could you elaborate on how Google supports employees on their continuous learning and professional development journey?"_
+> -*Question to be asked during the interview process at Google*
 
 # ❇️ Future Improvements
 
