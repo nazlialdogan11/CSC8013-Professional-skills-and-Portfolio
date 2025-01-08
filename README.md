@@ -52,7 +52,8 @@ obstacles along the way.
 
 # 📄 Evaluation Results
 - The highest scored skills in the skills audit were written communication, interpersonal communication and problem solving.
-- The prioritised skills in the skills audit for the areas of improvement were planning and organising, adaptability and numeracy.
+- The prioritised skills in the skills audit for the areas of improvement were adaptability, numeracy, planning & organising.
+
 >__An Excerpt from the Skills Audit:__
 > _"Could you elaborate on how Google supports employees on their continuous learning and professional development journey?"_
 > -*Question to be asked during the interview process at Google*
@@ -66,6 +67,9 @@ obstacles along the way.
 
   # ⛓️ References
 
-- [*Click for detailed information on the CSC8013 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8013)
-- [*Click for the skills audit assessment designed by Newcastle University Careers Service.*](https://www.ncl.ac.uk/media/wwwnclacuk/careersservice/files/skills-assessment.pdf)
-  
+The following links provide further information regarding this coursework.
+
+- [*Detailed information on the CSC8013 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8013)
+- [*The skills audit assessment designed by Newcastle University Careers Service.*](https://www.ncl.ac.uk/media/wwwnclacuk/careersservice/files/skills-assessment.pdf)
+- [*Additional information on competency based questions on interviews.*](https://www.prospects.ac.uk/careers-advice/interview-tips/competency-based-interviews)
+- [The article on how to answer competency based questions by Guardian.](https://www.theguardian.com/careers/how-to-answer-competency-based-questions-job-application-forms)
